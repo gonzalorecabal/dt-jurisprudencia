@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-03-03",
+  "repo": "gonzalorecabal/dt-jurisprudencia",
+  "base_pages": "https://gonzalorecabal.github.io/dt-jurisprudencia/",
+  "years": [
+    {
+      "year": 2004,
+      "todo": "indexes/todo/2004.json",
+      "sources": [
+        "data/2004/dictamenes.json"
+      ]
+    },
+    {
+      "year": 2016,
+      "todo": "indexes/todo/2016.json",
+      "sources": [
+        "data/2016/dictamenes.json"
+      ]
+    },
+    {
+      "year": 2026,
+      "todo": "indexes/todo/2026.json",
+      "sources": [
+        "data/2026/circulares.json",
+        "data/2026/ordenes.json",
+        "data/2026/ordinarios.json"
+      ]
+    }
+  ]
+}
