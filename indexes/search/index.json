@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-03-03",
+  "description": "Índice de búsqueda (liviano) para documentos DT. Cada registro incluye _search_text normalizado.",
+  "years": [
+    {
+      "year": "2004",
+      "path": "indexes/search/2004.json",
+      "count": 1
+    },
+    {
+      "year": "2016",
+      "path": "indexes/search/2016.json",
+      "count": 1
+    }
+  ],
+  "all_path": "indexes/search/all.json"
+}

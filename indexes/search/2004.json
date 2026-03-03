@@ -1,0 +1,22 @@
+{
+  "year": "2004",
+  "count": 1,
+  "docs": [
+    {
+      "id": "DT_DICTAMEN_675-26_2004-02-05",
+      "tipo": "DICTAMEN",
+      "numero": "675/26",
+      "fecha": "2004-02-05",
+      "tema": "Naturaleza del contrato de trabajo",
+      "bloque": "Bloque 1 – Contratación y Formalización",
+      "etiquetas": [
+        "contrato",
+        "relacion_laboral",
+        "honorarios"
+      ],
+      "_source_file": "data/2004/dictamenes.json",
+      "_pages_url": "/data/2004/dictamenes.json",
+      "_search_text": "dictamen 675 26 2004 02 05 naturaleza del contrato de trabajo bloque 1 contratacion y formalizacion define los elementos esenciales del contrato de trabajo permite diferenciar relacion laboral de prestacion de servicios aplicar en casos de contrataciones a honorarios contrato relacion laboral honorarios"
+    }
+  ]
+}

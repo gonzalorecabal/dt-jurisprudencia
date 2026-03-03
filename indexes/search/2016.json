@@ -1,0 +1,25 @@
+{
+  "year": "2016",
+  "count": 1,
+  "docs": [
+    {
+      "id": "DT_DICTAMEN_2226-036_2016-04-22",
+      "tipo": "DICTAMEN",
+      "numero": "2226/036",
+      "fecha": "2016-04-22",
+      "tema": "Descanso compensatorio para trabajadores con jornada parcial distribuida en menos de 5 días",
+      "bloque": "Jornada y descansos",
+      "etiquetas": [
+        "descanso compensatorio",
+        "jornada parcial",
+        "artículo 38",
+        "domingo",
+        "festivos",
+        "turnos"
+      ],
+      "_source_file": "data/2016/dictamenes.json",
+      "_pages_url": "/data/2016/dictamenes.json",
+      "_search_text": "dictamen 2226 036 2016 04 22 descanso compensatorio para trabajadores con jornada parcial distribuida en menos de 5 dias jornada y descansos reconsidera doctrina previa y establece que los trabajadores con jornada semanal parcial distribuida en menos de 5 dias mantienen derecho a descanso compensatorio por domingos y festivos trabajados inciso 3 del art 38 del codigo del trabajo en actividades de los numerales 2 o 7 del inciso 1 del art 38 al menos dos descansos compensatorios mensuales deben recaer en domingo salvo si i contrato 30 dias ii jornada ordinaria 20 horas semanales o iii contratacion exclusiva para trabajar sabados domingos o festivos modifica doctrina anterior de dictamenes n2598 032 2013 y n4773 057 2013 los empleadores que mantengan trabajadores en regimen de jornada parcial distribuida en menos de 5 dias y que laboren domingos festivos deben otorgar los descansos compensatorios conforme al art 38 aplicando la regla de dos domingos al mes cuando corresponda y verificando si se configuran las excepciones indicadas util para disenar turnos y calendarios de descanso en empresas con jornadas parciales concentradas p ej retail servicios y para revisar cumplimiento del art 38 en contratos de corta duracion de hasta 20 horas semanales o destinados solo a fines de semana festivos descanso compensatorio jornada parcial articulo 38 domingo festivos turnos"
+    }
+  ]
+}
