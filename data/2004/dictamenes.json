@@ -15,7 +15,10 @@
         "honorarios"
       ],
       "tipo": "DICTAMEN",
-      "anio": 2004
+      "anio": 2004,
+      "url_origen": "",
+      "fecha_descarga": "2026-03-03",
+      "hash_contenido": "ce92d6b7714699016e5e5eab9a37d12b5231e246a60234132ad26199ee486c96"
     }
   ]
 }

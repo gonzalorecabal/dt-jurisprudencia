@@ -18,7 +18,10 @@
         "turnos"
       ],
       "tipo": "DICTAMEN",
-      "anio": 2016
+      "anio": 2016,
+      "url_origen": "",
+      "fecha_descarga": "2026-03-03",
+      "hash_contenido": "4f46194aeb8bd20918891b0269405ecf9ba54352a4b180e7775098f0adcbec9a"
     }
   ]
 }
