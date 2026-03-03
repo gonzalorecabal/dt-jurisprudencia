@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DT Documento",
+  "type": "object",
+  "required": [
+    "tipo",
+    "numero",
+    "fecha",
+    "tema",
+    "resumen"
+  ],
+  "properties": {
+    "tipo": {
+      "type": "string",
+      "enum": [
+        "DICTAMEN",
+        "ORDINARIO",
+        "CIRCULAR",
+        "ORDEN"
+      ]
+    },
+    "numero": {
+      "type": "string"
+    },
+    "fecha": {
+      "type": "string",
+      "description": "Fecha de emisión (YYYY-MM-DD o DD-MM-YYYY)"
+    },
+    "tema": {
+      "type": "string"
+    },
+    "resumen": {
+      "type": "string"
+    },
+    "consecuencias": {
+      "type": "string"
+    },
+    "uso_recomendado": {
+      "type": "string"
+    },
+    "etiquetas": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "url_origen": {
+      "type": "string"
+    },
+    "anio": {
+      "type": "integer"
+    },
+    "bloque": {
+      "type": "string"
+    }
+  }
+}

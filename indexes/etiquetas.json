@@ -1,0 +1,77 @@
+{
+  "ultima_actualizacion": "2026-03-03",
+  "index": {
+    "descanso compensatorio": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "jornada parcial": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "artículo 38": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "domingo": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "festivos": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "turnos": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "2226/036",
+        "fecha": "2016-04-22",
+        "anio": 2016
+      }
+    ],
+    "contrato": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "675/26",
+        "fecha": "2004-02-05",
+        "anio": 2004
+      }
+    ],
+    "relacion_laboral": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "675/26",
+        "fecha": "2004-02-05",
+        "anio": 2004
+      }
+    ],
+    "honorarios": [
+      {
+        "tipo": "DICTAMEN",
+        "numero": "675/26",
+        "fecha": "2004-02-05",
+        "anio": 2004
+      }
+    ]
+  }
+}
