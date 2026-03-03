@@ -1,0 +1,52 @@
+{
+  "ultima_actualizacion": "2026-03-03",
+  "base_pages": "https://gonzalorecabal.github.io/dt-jurisprudencia",
+  "total_documentos": 2,
+  "documentos": [
+    {
+      "bloque": "Jornada y descansos",
+      "numero": "2226/036",
+      "fecha": "2016-04-22",
+      "tema": "Descanso compensatorio para trabajadores con jornada parcial distribuida en menos de 5 días",
+      "resumen": "Reconsidera doctrina previa y establece que los trabajadores con jornada semanal parcial distribuida en menos de 5 días mantienen derecho a descanso compensatorio por domingos y festivos trabajados (inciso 3° del art. 38 del Código del Trabajo). En actividades de los numerales 2 o 7 del inciso 1° del art. 38, al menos dos descansos compensatorios mensuales deben recaer en domingo, salvo si: (i) contrato ≤ 30 días; (ii) jornada ordinaria ≤ 20 horas semanales; o (iii) contratación exclusiva para trabajar sábados, domingos o festivos. Modifica doctrina anterior de dictámenes N°2598/032 (2013) y N°4773/057 (2013).",
+      "consecuencias": "Los empleadores que mantengan trabajadores en régimen de jornada parcial distribuida en menos de 5 días y que laboren domingos/festivos deben otorgar los descansos compensatorios conforme al art. 38, aplicando la regla de 'dos domingos al mes' cuando corresponda, y verificando si se configuran las excepciones indicadas.",
+      "uso_recomendado": "Útil para diseñar turnos y calendarios de descanso en empresas con jornadas parciales concentradas (p. ej., retail, servicios), y para revisar cumplimiento del art. 38 en contratos de corta duración, de hasta 20 horas semanales o destinados solo a fines de semana/festivos.",
+      "etiquetas": [
+        "descanso compensatorio",
+        "jornada parcial",
+        "artículo 38",
+        "domingo",
+        "festivos",
+        "turnos"
+      ],
+      "tipo": "DICTAMEN",
+      "anio": 2016,
+      "url_origen": "",
+      "fecha_descarga": "2026-03-03",
+      "hash_contenido": "4f46194aeb8bd20918891b0269405ecf9ba54352a4b180e7775098f0adcbec9a",
+      "_source_path": "data/2016/dictamenes.json",
+      "_pages_url": "https://gonzalorecabal.github.io/dt-jurisprudencia/data/2016/dictamenes.json"
+    },
+    {
+      "bloque": "Bloque 1 – Contratación y Formalización",
+      "numero": "675/26",
+      "fecha": "2004-02-05",
+      "tema": "Naturaleza del contrato de trabajo",
+      "resumen": "Define los elementos esenciales del contrato de trabajo.",
+      "consecuencias": "Permite diferenciar relación laboral de prestación de servicios.",
+      "uso_recomendado": "Aplicar en casos de contrataciones a honorarios.",
+      "etiquetas": [
+        "contrato",
+        "relacion_laboral",
+        "honorarios"
+      ],
+      "tipo": "DICTAMEN",
+      "anio": 2004,
+      "url_origen": "",
+      "fecha_descarga": "2026-03-03",
+      "hash_contenido": "ce92d6b7714699016e5e5eab9a37d12b5231e246a60234132ad26199ee486c96",
+      "_source_path": "data/2004/dictamenes.json",
+      "_pages_url": "https://gonzalorecabal.github.io/dt-jurisprudencia/data/2004/dictamenes.json"
+    }
+  ]
+}

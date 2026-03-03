@@ -1,0 +1,39 @@
+{
+  "ultima_actualizacion": "2026-03-03",
+  "total": 2,
+  "items": [
+    {
+      "id": "b110cb29280b",
+      "tipo": "DICTAMEN",
+      "numero": "2226/036",
+      "fecha_emision": "2016-04-22",
+      "anio": 2016,
+      "tema": "Descanso compensatorio para trabajadores con jornada parcial distribuida en menos de 5 días",
+      "etiquetas": [
+        "descanso compensatorio",
+        "jornada parcial",
+        "artículo 38",
+        "domingo",
+        "festivos",
+        "turnos"
+      ],
+      "source_path": "data/2016/dictamenes.json",
+      "pages_url": "https://gonzalorecabal.github.io/dt-jurisprudencia/data/2016/dictamenes.json"
+    },
+    {
+      "id": "99b5e8fa94ec",
+      "tipo": "DICTAMEN",
+      "numero": "675/26",
+      "fecha_emision": "2004-02-05",
+      "anio": 2004,
+      "tema": "Naturaleza del contrato de trabajo",
+      "etiquetas": [
+        "contrato",
+        "relacion_laboral",
+        "honorarios"
+      ],
+      "source_path": "data/2004/dictamenes.json",
+      "pages_url": "https://gonzalorecabal.github.io/dt-jurisprudencia/data/2004/dictamenes.json"
+    }
+  ]
+}
