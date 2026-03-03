@@ -1,0 +1,16 @@
+{
+  "generado_el": "2026-03-03",
+  "descripcion": "Catálogo liviano por año (metadatos mínimos; sin texto completo).",
+  "años": [
+    {
+      "año": 2004,
+      "count": 1,
+      "path": "indexes/catalogo_por_anio/2004.json"
+    },
+    {
+      "año": 2016,
+      "count": 1,
+      "path": "indexes/catalogo_por_anio/2016.json"
+    }
+  ]
+}

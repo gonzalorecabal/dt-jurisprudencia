@@ -1,0 +1,21 @@
+[
+  {
+    "id": "DT_DICTAMEN_2226-036_2016-04-22",
+    "tipo": "DICTAMEN",
+    "numero": "2226/036",
+    "fecha_emision": "2016-04-22",
+    "tema": "Descanso compensatorio para trabajadores con jornada parcial distribuida en menos de 5 días",
+    "bloque": "Jornada y descansos",
+    "etiquetas": [
+      "descanso compensatorio",
+      "jornada parcial",
+      "artículo 38",
+      "domingo",
+      "festivos",
+      "turnos"
+    ],
+    "url_origen": "",
+    "_source_file": "data/2016/dictamenes.json",
+    "_pages_url": "data/2016/dictamenes.json"
+  }
+]

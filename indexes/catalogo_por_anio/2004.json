@@ -1,0 +1,18 @@
+[
+  {
+    "id": "DT_DICTAMEN_675-26_2004-02-05",
+    "tipo": "DICTAMEN",
+    "numero": "675/26",
+    "fecha_emision": "2004-02-05",
+    "tema": "Naturaleza del contrato de trabajo",
+    "bloque": "Bloque 1 – Contratación y Formalización",
+    "etiquetas": [
+      "contrato",
+      "relacion_laboral",
+      "honorarios"
+    ],
+    "url_origen": "",
+    "_source_file": "data/2004/dictamenes.json",
+    "_pages_url": "data/2004/dictamenes.json"
+  }
+]
